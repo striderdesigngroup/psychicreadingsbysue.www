@@ -38,7 +38,7 @@
                 <li><a href="contact.html">Contact</a></li>
            </ul>
             
-           <p>&copy; 2014 Tarot & Intuitive Readings by Sue. Produced by <a href="http://www.samsnyderdesigns.com" target="_blank">Sam Snyder Designs.</a></p>
+           <p>&copy; 2014 Tarot & Intuitive Readings by Sue.  </p>
     	</div>
           
     </div>
